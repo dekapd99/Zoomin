@@ -14,7 +14,7 @@
 
 <!-- ABOUT THE FILE & FOLDER STRUCTURE -->
 ## Folder & File Structure
-Berikut struktur file dan folder pada Foody:
+Berikut struktur file dan folder pada :
 
     .
     ├── FoodyApp.swift          # Root Project: Konfigurasi ContentView
