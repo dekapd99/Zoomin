@@ -50,7 +50,7 @@ Untuk menggunakan repositori ini, ikutilah petunjuk penggunaan berikut dan pasti
 
 1. Lakukan download .zip atau `clone` repositori dengan cara:
 ```bash
-git clone https://github.com/dekapd99/Foody.git
+git clone https://github.com/dekapd99/
 ```
 
 2. Jika sudah silahkan buka Project di Xcode.
