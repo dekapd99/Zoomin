@@ -82,9 +82,9 @@
 			children = (
 				ABB232A429BE220C007F9BF3 /* Data */,
 				ABB232A329BE2203007F9BF3 /* Model */,
-				ABF42ACE29BE19D8001E12DB /* ZoominApp.swift */,
 				ABB232A229BE21F9007F9BF3 /* View */,
 				ABB232A129BE21DC007F9BF3 /* Screen */,
+				ABF42ACE29BE19D8001E12DB /* ZoominApp.swift */,
 				ABF42AD229BE19D8001E12DB /* Assets.xcassets */,
 				ABF42AD429BE19D8001E12DB /* Preview Content */,
 			);
