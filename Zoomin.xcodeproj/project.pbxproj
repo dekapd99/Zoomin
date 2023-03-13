@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ABA1D27E29BFE8A30062203B /* InfoPanelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA1D27D29BFE8A30062203B /* InfoPanelView.swift */; };
 		ABF42ACF29BE19D8001E12DB /* ZoominApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF42ACE29BE19D8001E12DB /* ZoominApp.swift */; };
 		ABF42AD129BE19D8001E12DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF42AD029BE19D8001E12DB /* ContentView.swift */; };
 		ABF42AD329BE19D8001E12DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABF42AD229BE19D8001E12DB /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ABA1D27D29BFE8A30062203B /* InfoPanelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPanelView.swift; sourceTree = "<group>"; };
 		ABF42ACB29BE19D8001E12DB /* Zoomin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Zoomin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABF42ACE29BE19D8001E12DB /* ZoominApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoominApp.swift; sourceTree = "<group>"; };
 		ABF42AD029BE19D8001E12DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -43,6 +45,7 @@
 		ABB232A229BE21F9007F9BF3 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				ABA1D27D29BFE8A30062203B /* InfoPanelView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 			files = (
 				ABF42AD129BE19D8001E12DB /* ContentView.swift in Sources */,
 				ABF42ACF29BE19D8001E12DB /* ZoominApp.swift in Sources */,
+				ABA1D27E29BFE8A30062203B /* InfoPanelView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

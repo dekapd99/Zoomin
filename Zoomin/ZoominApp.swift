@@ -2,7 +2,7 @@
 //  ZoominApp.swift
 //  Zoomin
 //
-//  Created by Deka Primatio on 12/03/23. by Deka Primatio Deandra
+//  Created by Deka Primatio on 12/03/23.
 //
 
 import SwiftUI
