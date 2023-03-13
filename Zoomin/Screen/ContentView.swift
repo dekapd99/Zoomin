@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Zoomin
 //
-//  Created by Deka Primatio on 12/03/23. deka
+//  Created by Deka Primatio on 12/03/23.
 //
 
 import SwiftUI
