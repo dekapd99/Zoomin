@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		2AFC392929C14BB300A232B2 /* ControlImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AFC392829C14BB300A232B2 /* ControlImageView.swift */; };
+		AB8D9E6529C33C91008443B2 /* PageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8D9E6429C33C91008443B2 /* PageModel.swift */; };
+		AB8D9E6729C33CFB008443B2 /* PageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8D9E6629C33CFB008443B2 /* PageData.swift */; };
 		ABA1D27E29BFE8A30062203B /* InfoPanelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA1D27D29BFE8A30062203B /* InfoPanelView.swift */; };
 		ABF42ACF29BE19D8001E12DB /* ZoominApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF42ACE29BE19D8001E12DB /* ZoominApp.swift */; };
 		ABF42AD129BE19D8001E12DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF42AD029BE19D8001E12DB /* ContentView.swift */; };
@@ -17,6 +19,8 @@
 
 /* Begin PBXFileReference section */
 		2AFC392829C14BB300A232B2 /* ControlImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlImageView.swift; sourceTree = "<group>"; };
+		AB8D9E6429C33C91008443B2 /* PageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageModel.swift; sourceTree = "<group>"; };
+		AB8D9E6629C33CFB008443B2 /* PageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageData.swift; sourceTree = "<group>"; };
 		ABA1D27D29BFE8A30062203B /* InfoPanelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPanelView.swift; sourceTree = "<group>"; };
 		ABF42ACB29BE19D8001E12DB /* Zoomin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Zoomin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABF42ACE29BE19D8001E12DB /* ZoominApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoominApp.swift; sourceTree = "<group>"; };
@@ -56,6 +60,7 @@
 		ABB232A329BE2203007F9BF3 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				AB8D9E6429C33C91008443B2 /* PageModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -63,6 +68,7 @@
 		ABB232A429BE220C007F9BF3 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				AB8D9E6629C33CFB008443B2 /* PageData.swift */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -176,8 +182,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2AFC392929C14BB300A232B2 /* ControlImageView.swift in Sources */,
+				AB8D9E6529C33C91008443B2 /* PageModel.swift in Sources */,
 				ABF42AD129BE19D8001E12DB /* ContentView.swift in Sources */,
 				ABF42ACF29BE19D8001E12DB /* ZoominApp.swift in Sources */,
+				AB8D9E6729C33CFB008443B2 /* PageData.swift in Sources */,
 				ABA1D27E29BFE8A30062203B /* InfoPanelView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
